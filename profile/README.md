@@ -1,6 +1,5 @@
 
 ![Logo](https://github.com/skattech-solutions/.github/blob/main/resources/logo_light.png)
-![Logo](https://github.com/skattech-solutions/.github/blob/main/resources/logo.png)
 
 # SKAT TECH
 
