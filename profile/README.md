@@ -3,7 +3,7 @@
 
 # SKAT TECH
 
-### We build products that users love.
+### We build the product you love
 #### A design agency shaping ideas into products. We help startups and enterprises invent, build and launch their next project.
 
 
