@@ -7,9 +7,6 @@
 #### A design agency shaping ideas into products. We help startups and enterprises invent, build and launch their next project.
 
 
-## Developers
-
-- [Nandhakumar Subramanian](https://www.github.com/nandha46)
 
 ## Designer
 - [Arjun](https://www.github.com/)
